@@ -115,3 +115,5 @@ public
 
 # Mac
 .DS_Store
+
+secrets.revealed.json
